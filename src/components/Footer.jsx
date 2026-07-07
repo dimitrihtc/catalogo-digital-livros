@@ -3,6 +3,7 @@ function Footer() {
     // Interessante: rodapes simples com conteudo semantico ajudam acessibilidade e SEO.
     return (
     <footer className="footer" id="sobre">
+    <img src="src/assets/img/pattern.svg"></img>
     <p>Biblioteca Viva</p>
     <span>
     Projeto educacional para organizar leituras, recomendações e critérios de escolha.

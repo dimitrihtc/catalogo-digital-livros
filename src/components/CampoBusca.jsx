@@ -8,8 +8,7 @@ function CampoBusca({ valor, aoAlterar }) {
     value={valor}
     onChange={(evento) =>
     aoAlterar(evento.target.value)}
-    placeholder="Exemplo: História,
-    filosofia, ciências sociais"
+    placeholder="Exemplo: História, filosofia, ciências sociais"
     />
     </label>
     )

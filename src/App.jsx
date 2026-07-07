@@ -71,14 +71,13 @@ const livrosFiltrados = useMemo(() => {
     <section className="hero">
     <div>
     <span className="etiqueta">Projeto React guiado por dados</span>
-    <h1>Catálogo digital para organizar leituras e recomendações</h1>
+    <h1>Catálogo digital de literatura clássica greco-romana</h1>
     <p>Uma interface construída com componentes reutilizáveis, filtros dinâmicos,
 cards responsivos e dados estruturados em JSON.
 </p>
 </div>
 </section>
-<PainelEstatisticas
-total={livrosBase.length}
+<PainelEstatisticas total={livrosBase.length}
 exibidos={livrosFiltrados.length}
 favoritos={favoritos.length}
 categorias={categorias.length}

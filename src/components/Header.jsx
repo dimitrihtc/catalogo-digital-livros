@@ -4,10 +4,10 @@ function Header() {
     return (
     <header className="header">
     <a className="marca" href="#catalogo" aria-label="Ir para o catálogo">
-    <span className="marca-simbolo">BV</span>
+    <img src="src/assets/img/pottery.svg"></img>
     <span>
     <strong>Biblioteca Viva</strong>
-    <small>catálogo digital de leituras</small>
+    <small>catálogo digital de leituras clássicas</small>
     </span>
     </a>
     <nav className="nav" aria-label="Navegação principal">

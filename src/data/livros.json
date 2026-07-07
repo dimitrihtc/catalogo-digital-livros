@@ -11,7 +11,7 @@
       "paginas": 500,
       "descricao": "Poema épico sobre o retorno de Odisseu a Ítaca após a Guerra de Troia, marcado por viagens, monstros e provas de astúcia.",
       "tags": ["grécia", "épico", "mitologia", "homero"],
-      "capa": "/capas/classicos.svg"
+      "capa": "src/assets/capas/odissey.jpg"
     },
     {
       "id": 2,
@@ -25,7 +25,7 @@
       "paginas": 560,
       "descricao": "Poema épico centrado na ira de Aquiles durante a Guerra de Troia, explorando heroísmo, honra e destino.",
       "tags": ["grécia", "troia", "épico", "mitologia"],
-      "capa": "/capas/classicos.svg"
+      "capa": "src/assets/capas/iliad.jpg"
     },
     {
       "id": 3,
@@ -39,7 +39,7 @@
       "paginas": 120,
       "descricao": "Tratado etnográfico e político sobre os povos germânicos escrito por Tácito, importante para a compreensão do mundo romano e bárbaro.",
       "tags": ["roma", "tácito", "história", "germânicos"],
-      "capa": "/capas/classicos.svg"
+      "capa": "src/assets/capas/germania.jpg"
     },
     {
       "id": 4,
@@ -53,7 +53,7 @@
       "paginas": 430,
       "descricao": "Poema épico latino que narra a jornada de Eneias desde a queda de Troia até a fundação mítica da linhagem romana.",
       "tags": ["roma", "épico", "virgílio", "troia"],
-      "capa": "/capas/classicos.svg"
+      "capa": "src/assets/capas/eneiad.jpg"
     },
     {
       "id": 5,
@@ -67,7 +67,7 @@
       "paginas": 480,
       "descricao": "Grande poema mitológico que reúne narrativas de transformação, da criação do mundo até o período de Augusto.",
       "tags": ["mitologia", "roma", "ovídio", "poesia"],
-      "capa": "/capas/classicos.svg"
+      "capa": "src/assets/capas/metamorphoses.jpg"
     },
     {
       "id": 6,
@@ -81,7 +81,7 @@
       "paginas": 400,
       "descricao": "Diálogo filosófico sobre justiça, política, educação e a organização ideal da cidade e da alma.",
       "tags": ["platão", "filosofia", "política", "justiça"],
-      "capa": "/capas/classicos.svg"
+      "capa": "src/assets/capas/plato.jpg"
     },
     {
       "id": 7,
@@ -95,7 +95,7 @@
       "paginas": 320,
       "descricao": "Obra central da ética aristotélica, dedicada à virtude, à felicidade e ao equilíbrio na vida humana.",
       "tags": ["aristóteles", "ética", "filosofia", "virtude"],
-      "capa": "/capas/classicos.svg"
+      "capa": "src/assets/capas/aristotle.jpg"
     },
     {
       "id": 8,
@@ -109,7 +109,7 @@
       "paginas": 720,
       "descricao": "Narrativa histórica sobre as Guerras Médicas e os costumes de diversos povos do mundo antigo.",
       "tags": ["heródoto", "história", "grécia", "persas"],
-      "capa": "/capas/classicos.svg"
+      "capa": "src/assets/capas/historia.jpg"
     },
     {
       "id": 9,
@@ -123,7 +123,7 @@
       "paginas": 640,
       "descricao": "Relato rigoroso do conflito entre Atenas e Esparta, referência fundamental para história e teoria política.",
       "tags": ["tucídides", "atenas", "esparta", "história"],
-      "capa": "/capas/classicos.svg"
+      "capa": "src/assets/capas/peloponeso.jpg"
     },
     {
       "id": 10,
@@ -137,7 +137,7 @@
       "paginas": 256,
       "descricao": "Reflexões pessoais do imperador romano sobre disciplina, dever, autocontrole e filosofia estoica.",
       "tags": ["estoicismo", "roma", "filosofia", "marco aurélio"],
-      "capa": "/capas/classicos.svg"
+      "capa": "src/assets/capas/marcus.jfif"
     },
     {
       "id": 11,
